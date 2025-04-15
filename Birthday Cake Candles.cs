@@ -49,6 +49,7 @@ class Program
     }
 }
 
+
  static void Main()
     {
         int[] candles = { 1, 2, 3, 2, 5, 1, 4, 5 }; //example random array
