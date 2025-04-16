@@ -33,7 +33,8 @@
                         }
                     }
                 //first check white balls
-                    else
+
+                else
                 {
                         if (black >= level)
                         {
