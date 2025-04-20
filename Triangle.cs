@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.Write("Enter the height of the triangle: ");
-            int height = int.Parse(Console.ReadLine());
+            int height = Convert.ToInt32(Console.ReadLine());
 
             for (int row = 1; row <= height; row++)
             {
