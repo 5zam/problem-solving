@@ -1,6 +1,6 @@
 ﻿namespace Problem2
 {
-    internal class Program
+    internal class WhiteBlackBalls
     {
         static void Main(string[] args)
         { 
